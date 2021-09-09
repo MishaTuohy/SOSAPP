@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sender</string>
+    <string name="valid_number">Valid number</string>
+    <string name="invalid_number">Invalid number</string>
+    <string name="sender">Sender</string>
+    <string name="waiting_on_response">Waiting on response...</string>
+    <string name="cancel">Cancel</string>
+</resources>
